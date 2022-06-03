@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Freddy0604n
-- 👀 I’m interested in Programming, music and occacionally drawing. 
-- 🌱 I’m currently learning Git, Web development and Rust
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: send me a message on twitter: @Freddy_Loj
+Hello there, I am Frank.
+
+I mostly develop code in rust, but as I am still learning programming and the language I have not contributed to public projects.
+If there is any project you trust me to help you with I am happy to help :).
 
 <!---
 Freddy0604n/Freddy0604n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
